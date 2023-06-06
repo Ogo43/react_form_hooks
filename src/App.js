@@ -1,6 +1,11 @@
 import Form from "./Component/Form";
+import React from "react";
 
-function App() {
+
+const App = () => {
+ 
+
+  
   return (
     <div className="App">
       <Form/>

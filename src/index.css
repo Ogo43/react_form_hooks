@@ -17,7 +17,6 @@ body {
   width: 92%;
   border-radius: 0.4rem;
   padding-top: 0.5rem;
-
 }
 
 .form-header{
@@ -55,6 +54,7 @@ body {
   border: none;
   margin-top: 0.5rem;
   outline: none;
+  text-transform: lowercase;
 }
 
 .form-box2{
